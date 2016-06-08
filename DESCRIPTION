@@ -1,0 +1,11 @@
+Package: graph2r
+Title: A simple graph making package
+Version: 0.0.0.9000
+Authors@R: person("Jun", "Koda", email = "jun.koda@brera.inaf.it", role = c("aut", "cre"))
+Description: What the package does (one paragraph).
+Depends:
+    R (>= 3.3.0)
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
